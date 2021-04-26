@@ -18,6 +18,10 @@ echo - Python 3.6.9>>README.md
 echo - LAMP para poder usar MySQL o XAMPP en windows>>README.md
 echo - Flask 1.1.2>>README.md
 echo - UBUNTU 18.04.5 LTS o windows 10>>README.md
+echo ## Entorno en python>>README.md
+echo Antes de poder hacer tu proyecto tienes que crear tu entorno con python, comandos mas abajo.>>README.md
+echo.
+echo.
 echo ## Variables de entorno:>>README.md
 echo.
 echo Ubuntu:>>README.md
